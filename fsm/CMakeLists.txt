@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.14)
+project(fsm)
+find_package(fmt REQUIRED)
+add_subdirectory(src1)
+add_subdirectory(src2)
+add_subdirectory(src3)
+add_subdirectory(src4)
